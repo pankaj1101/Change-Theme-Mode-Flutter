@@ -1,6 +1,6 @@
 # themechangerapp
 
-A new Flutter project.
+Change theme Mode using Provider...
 
 ## Getting Started
 
